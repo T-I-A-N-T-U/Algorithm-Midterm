@@ -10,8 +10,8 @@ Created on Sat Apr 23 21:05:56 2023
 import random
 import timeit
 
-n = list(range(10, 100))  
-# 第a小題range(100, 1001, 10)
+n = list(range(10, 1001, 10))  
+# 第a小題range(10, 1001, 10)
 # 第c小題改成range(100, 10001, 100) 間隔100程式執行速度較快，間隔10要跑十分鐘
 # 程式執行後都有圖片可以查看
 
