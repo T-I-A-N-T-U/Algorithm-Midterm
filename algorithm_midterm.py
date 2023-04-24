@@ -52,9 +52,9 @@ def binary_search(num):
         high = len(S[num])-1
         while( low<=high ):
             mid = int( (low+high)/2 )
-            if x[i] < S[num][mid]:
+            if x[num] < S[num][mid]:
                 high = mid-1
-            elif x[i] > S[num][mid]:
+            elif x[num] > S[num][mid]:
                 low = mid+1
             else:
                 return 0
