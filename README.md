@@ -6,3 +6,6 @@
 整體執行速度快了非常多。
 
 我也補上了新程式碼產生的圖表，希望您過目
+
+舊的程式碼是algorithm_midterm   
+解決問題後的程式碼是new_algorithm_midtern
